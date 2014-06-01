@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Theme - Piatto/Piatto Light.tmTheme",
+	"theme": "Piatto Light 3.sublime-theme",
+	"font_face": "Ricty",
+	"font_size": 13,
+	"piatto_folder_icons": true,
+	"overlay_scroll_bars": "enabled",
+	"bold_folder_labels": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
